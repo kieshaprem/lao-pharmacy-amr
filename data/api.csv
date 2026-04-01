@@ -1,0 +1,399 @@
+﻿Item,Test code,Trade name,Generic name,Drug form,Dasage,Batch numbers,Exp.Date,Manufacturer,Country,Content/value deviation, API test result,Accepted range,Test result 0=Substadard 1=Meet standard 
+1,ICARS:24.07.25.028,AMPICILLIN,Ampicillin,Capsules,500mg,2445003,05.2027,KPN,Laos,0.5899 g        (-3.8 ; 1.7),90.6%,90.0 - 110.0%,1
+2,ICARS:24.07.25.029,AMOXYCILLINE,Amoxicillin,Capsules,500mg,2446002,03.2027,KPN,Laos,0.5649 g        (-4.1 ; 3.1),100.5%,90.0 - 110.0%,1
+3,ICARS:24.07.25.030,METHROZOL 500,Metronidazole,Tablets,500mg,030323,03.2026,CBF,Laos,0.5663 g        (-3.3 ; 4.0),96.0%,93.0 - 107.0%,1
+4,ICARS:24.07.25.031,METROZOL 500,Metronidazole,Tablets,500mg,040423,04.2026,CBF,Laos,0.5627 g        (-3.8 ; 4.6),99.5%,93.0 - 107.0%,1
+5,ICARS:24.07.25.032,HEROL- 500,Tetracycline,Capsules,500mg,2202002,03.2025,KPN,Laos,0.5678 g        (-3.7 ; 3.7),96.8%,90.0 - 110.0%,1
+6,ICARS:24.07.25.033,DOXYCYCLINE,Doxycycline,Capsules,100mg,312201,01.2026,Coduphar,Laos,0.2497 g        (-4.5 ; 5.9),103.7%,90.0 - 120.0%,1
+7,ICARS:24.07.25.034,PENICILLINE V,Penicillin,Tablets,400.000IU,301104,10.2025,Coduphar,Laos,0.3895 g        (-3.1 ; 1.4),99.6%,90.0 - 120.0%,1
+8,ICARS:24.07.25.035,TETRACYCLIN,Tetracycline,Tablets,250mg,216102,03.2026,Coduphar,Laos,0.3876         (-6.0 ; 4.3),94.0%,90.0 - 110.0%,1
+9,ICARS:24.07.25.036,ERY 250,Erythromycin,Tablets,250mg,050723,01.2026,CBF,Laos,0.3692 g        (-7.4 ; 5.3),105.6%,90.0 - 120.0%,1
+10,ICARS:24.07.25.037,T.V.MOX 500,Amoxicillin,capsules,500mg,090722,9/7/26,T.MAN,Thailand,0.6052 g        (-1.4 ; 1.5),100.1%,90.0 - 110.0%,1
+11,ICARS:24.07.25.038,CHLORAMPHENICOL,Chloramphenicol,capsules,250mg,213305,07.2025,Coduphar,Laos,0.3956 g        (-4.9 ; 3.9),99.3%,90.0 - 110.0%,1
+12,ICARS:24.07.25.039,AMPI - 500,Ampicillin,capsules,500mg,709230602,06.2026,Lao ALiiance,Laos,0.5921 g        (-2.3 ; 1.2),102.1%,90.0 - 110.0%,1
+13,ICARS:24.07.25.040,AMOXYCILLINE,Amoxicillin,capsules,500mg,2346051,09.2026,KPN,Laos,0.5698 g        (-4.4 ; 5.0),100.3%,90.0 - 110.0%,1
+14,ICARS:24.07.25.041,METHRONIDAZOL,Metronidazole,Tablets,250mg,020323,09.2025,CBF,Laos,0.4509 g        (-3.9 ; 1.1),98.2%,93.0 - 107.0%,1
+15,ICARS:24.07.25.042,AZITHROMAX,Azithromycin,Tablets,250mg,010124,01.2027,CBF,Laos,0.3387 g        (-3.0 ; 2.7),99.0%,90.0 - 110.0%,1
+16,ICARS:24.07.25.043,METROZOL 500,Metronidazole,Tablets,500mg,020324,03.2027,CBF,Laos,0.5675 g        (-3.3 ; 3.6),95.3%,93.0 - 107.0%,1
+17,ICARS:24.07.25.044,METROZOL 501,Metronidazole,Tablets,500mg,040423,04.2026,CBF,Laos,0.5618 g        (-3.2; 4.0),99.4%,93.0 - 107.0%,1
+18,ICARS:24.07.25.045,PENI - ZEM,Penicillin,Tablets,400.000IU,010223,02.2025,CBF,Laos,0.3395 g        (-3.1 ; 3.6),99.2%,90.0 - 120.0%,1
+19,ICARS:24.07.25.046,ZAMOCIL 500,Amoxicillin,Capsules,500mg,230447,03.2026,Sinopharm Weiqida,China,0.5826 g        (-1.0 ; 0.6),100.4%,90.0 - 110.0%,1
+20,ICARS:24.07.25.047,AMPI - 500,Ampicillin,Capsules,500mg,240501,05.2027,Lao ALiiance,Laos,0.5074 g        (-4.2 ; 3.5),93.7%,90.0 - 110.0%,1
+21,ICARS:24.07.25.048,HEROMYCIN,Tetracycline,Capsules,250mg,2301003,11.2026,Coduphar,Laos,0.4349 g        (-2.6 ; 2.1),99.0%,90.0 - 11.00%,1
+22,ICARS:24.07.25.049,AMPICILLIN,Ampicillin,Capsules,500mg,300403,06.2026,Coduphar,Laos,0.57915 g        (-1.6 ; 1.4),92.4%,90.0 - 110.0%,1
+23,ICARS:24.07.25.050,ERY 250,Erythromycin,Tablets,250mg,030423,10.2025,CBF,Laos,0.3978 g        (-2.8 ; 4.4),100.7%,90.0 - 120.0%,1
+24,ICARS:24.07.25.051,DOXYCYCLINE ,Doxycycline,Capsules,100mg,212203,08.2025,Coduphar,Laos,0.2697 g        (-4.5 ; 4.6),105.3%,90.0 - 120.0%,1
+25,ICARS:24.07.25.052,METHROZOL 500,Metronidazole,Tablets,500mg,040423,04.2026,CBF,Laos,0.5494 g        (-5.3; 5.5),99.8%,93.0 - 107.0%,1
+26,ICARS:24.07.25.053,DOXYCYCLINE ,Doxycycline,Capsules,100mg,212202,05.2025,Coduphar,Laos,0.2608 g        (-3.8 ; 4.9),102.5%,90.0 - 120.0%,1
+27,ICARS:24.07.25.054,ERYTHRO - 250,Erythromycin,Tablets,500mg,312303,04.2026,Coduphar,Laos,0.9224 g        (-1.6 ; 2.1),100.9%,90.0 - 120.0%,1
+28,ICARS:24.07.25.055,PENI - ZEM,Penicillin,Tablets,400.000IU,010223,02.2025,CBF,Laos,03396 g        (-3.0 ; 3.6),99.2%,90.0 - 120.0%,1
+29,ICARS:24.07.25.056,AZITHROMAX,Azithromycin,Tablets,250mg,040522,05.2025,CBF,Laos,0.3374 g        (-1.6 ; 1.7),99.8%,90.0 - 110.0%,1
+30,ICARS:24.07.25.057,AMOXYXILLIN,Amoxicillin,Capsules,500mg,300148,05.2026,Coduphar,Laos,0.5919 g        (-1.0; 0.8),98.8%,90.0 - 110.0%,1
+31,ICARS:24.07.25.058,AMPICILLIN,Ampicillin,Capsules,500mg,200504,11.2025,Coduphar,Laos,0.6047 g        (-3.2 ;4.6),99.0%,90.0 - 110.0%,1
+32,ICARS:24.07.25.059,ERY 250,Erythromycin,Tablets,250mg,040623,12.2025,CBF,Laos,0.3778 g        (-4.3;4.4),106.3%,90.0 - 120.0%,1
+33,ICARS:24.07.25.060,CHLORAMPHENICOL,Chloramphenicol,Capsules,250mg,313301,16/03/2026,Coduphar,Laos,0.3879 g        (-4.8 ; 7.0),99.0%,90.0 - 110.0%,1
+34,ICARS:24.07.25.061,TETRACYCLIN ,Tetracycline,Capsules,250mg,316101,10.03.2026,Coduphar,Laos,0.4090 g        (-7.5 ; 6.2),95.0%,90.0 - 110.0%,1
+35,ICARS:24.07.25.062,AMPICILLIN,Ampicillin,Tablets,250mg,300703,15/01/2026,Coduphar,Laos,0.3571 g        (-4.9 ;3.5),91.2%,90.0 - 110.0%,1
+36,ICARS:24.07.25.063,GANOSPEC 500,Tetracycline,Capsules,500mg,42301,07/03/2026,PICCO PHARMA,Thailand,0.4998 g        (-5.0 ; 4.5),96.0%,90.0 - 110.0%,1
+37,ICARS:24.07.25.064,TC- MYCIN 500,Tetracycline,Capsules,500mg,271T,26/10/2026,TCP,Thailand,0.5110 g        (-1.2 ; 1.1),96.3%,90.0 - 110.0%,1
+38,ICARS:24.08.19.065,DOXYCYCLINE,Doxycycline,Capsules,100mg,312206,09.2026,Coduphar,Laos,0.2661 g        (-6.4 ; 5.2),95.6%,90.0 - 120.0%,1
+39,ICARS:24.08.19.066,METRONNDAZOL,Metronidazole,Tablets,250 mg,040723,01.2026,CBF,Laos,0.4452g        (-4.5 ; 3.1),98.4%,93.0 - 107.0%,1
+40,ICARS:24.08.19.067,METROZOL 500,Metronidazole,Tablets,200mg,030524,05.2027,CBF,Laos,0.5710 g        (-2.8 ; 4.2),102.1%,93.0 - 107.0%,1
+41,ICARS:24.08.19.068,AZITHROMAX,Azithromycin,Tables,250mg,081123,9/18/06,CBF,Laos,0.3417g        (-3.6 ; 2.5),99.3%,90.0 - 110.0%,1
+42,ICARS:24.08.19.069,ERY-250,Erythromycin,Tablets,250 mg,061223,06.2026,CBF,Laos,0.3816g        (-40 ;3.3),97.9%,90.0 - 120.0%,1
+43,ICARS:24.08.19.070,HEROLMYCIN,Tetracycline,Capsules,250mg,2301004,01/01/2027,KPN,Laos,0.4256 g        (-5.5 ; 2.6),112.5%,90.0 - 120.0%,1
+44,ICARS:24.08.19.071,AMPICILLIN,Ampicillin,Capsules,500 mg,2445012,07.2027,KPN,Laos,0.5726 g        (-2.8 ; 3.0),94.5%,90.0 - 110.0%,1
+45,ICARS:24.08.19.072,AMOXYCILLINE,Amoxicillin,Capsules,500mg,2446020,04.2027,KPN,Laos,0.5656 g        (-5.0 ; 2.9),101.0%,90.0 - 110.0%,1
+46,ICARS:24.08.19.073,KRESSMOX,Amoxicillin,Capsules,500mg,1819,10.2026,KRESS ,Thailand,06130g        (-1.7 ; 2.9),103.1%,90.0 - 110.0%,1
+47,ICARS:24.08.19.074,KRESSMOX 500,Amoxicillin,Capsules,500 mg,1888,09.2025,KRESS ,Thailand,0.6123 g        (-1.7 ; 3.9),101.4%,90.0 - 110.0%,1
+48,ICARS:24.08.19.075,A.M.MOX,Amoxicillin,Capsules,500 mg,230310,14/03/2026,Mecrophar,Thailand,5899 g        (-3.8 ; 1.7),101.2%,90.0 - 110.0%,1
+49,ICARS:24.08.19.076,VEJAR-VK,Penicillin,Tablet,"400,000 IU",2205006,2025/05/04,North china,CHINA,0.2935g        (-1.5 ; 1.1),99.1%,90.0 - 120.0%,1
+50,ICARS:24.08.19.077,AZITHROMYCIN,Azithromycin,Tablets,500mg,03,03.2027,PF3,Laos,0.7081 g        (-2.0 ; 2.9),99.9%,90.0 - 110.0%,1
+51,ICARS:24.08.19.078,KLORAMPHENICOL,Chloramphenicol,capsules,250mg,313313,01/11/2026,Coduphar,Laos,03988g        (-3.3 ; 5.6),99.5%,98.0 - 102.0%,1
+52,ICARS:24.08.19.079,AMPICILLIN,Ampicillin,Tablets,250 mg,2444010,07/07/2027,KPN,Laos,0.3605 g        (-2.4 ; 2.3),96.1%,90.0 - 110.0%,1
+53,ICARS:24.08.19.080,GANOSPEC500,Tetracycline,Capsule,500mg,42401,09/01/2027,PICCO,Thailand,0.5048 g        (-2.2 ; 1.0),96.3%,90.0 - 120.0%,1
+54,ICARS:24.08.19.081,METROZOL,Metronidazole,Tables,100mg,040524,05-2027,CBF,Laos,05702g        (-3.1 ; 2.9),94.3%,93.0 - 107.0%,1
+55,ICARS:24.08.19.082,ERY-500,Erythromycin,Tablets,500mg,020524,11.2026,CBF,Laos,0.5957 g        (- 4.3 ; 2.2),94.8%,90.0 - 120.0%,1
+56,ICARS:24.08.19.083,ERYTHRO-250,Erythromycin,Tablet,250mg,312708,11.2026,Coduphar,Laos,0.5064g        (-3.4 ; 3.1),96.0%,90.0 - 120.0%,1
+57,ICARS:24.08.19.084,AMOXYCILLINE,Amoxicillin,Capsules,500 mg,2446010,03.2027,KPN,Laos,0.5721 g        (-3.1 ; 2.2),99.7%,90.0 - 110.0%,1
+58,ICARS:24.08.19.085,MOXIPHARM,Amoxicillin,Capsule,500mg,128886,7/27/26,Medic,Thailand,0.5881 g          (-2.5 ; 3.3),99.5%,90.0 - 110.0%,1
+59,ICARS:24.08.19.086,AMOXYLIN 500,Amoxicillin,Capsule,500 mg,2405045,20/05/2028,No.2,Laos,0.4734 g        (-4.3 ;5.0),101.1%,90.0 - 110.0%,1
+60,ICARS:24.08.19.087,DOXYCYCLINE,Doxycycline,Capsules,100mg,312205,09.2026,Coduphar,Laos,0.2537 g        (-5.5 ; 4.1),108.6%,90.0 - 120.0%,1
+61,ICARS:24.08.19.088,TETRA,Tetracycline,Tablet,250mg,216105,16/10/2025,Codupha-lao,Laos,0.3982 g        (-3.8 ; 5.6),102.1%,90.0 - 120.0%,1
+62,ICARS:24.08.19.089,KLORAMPHENICOL,Chloramphenicol,Capsule,250mg,313306,06/07/2026,Codupha-lao,Laos,0.3879g        (-7.1 ; 5.6),99.7%,90.0 - 110.0%,1
+63,ICARS:24.08.19.090,AMPICILLIN,Ampicillin,Capsule,250mg,2444009,05/05/2027,KPN,Laos,0.3574g       (-2.6 ;1.6),97.4%,90.0 - 110.0%,1
+64,ICARS:24.08.19.091,KLORAMPHENICOL,Chloramphenicol,Capsule,250mg,313306,06/07/2026,Codupha-lao,Laos,0.3917g        (-4.8 ; 4.7),99.4%,90.0 - 110.0%,1
+65,ICARS:24.08.19.092,AMPICILLIN,Ampicillin,Tablet,250mg,2444010,07/2027,KPN,Laos,0.3602 g        (-2.8 ; 2.3),96.1%,90.0 - 110.0%,1
+66,ICARS:24.08.19.093,AMOXYCILLINE,Amoxicillin,Capsule,500mg,125425,26/12/2026,THE MEDICPHARMA,Thailand,0.6092 g        (-2.4 ; 2.5),102.1%,90.0 - 110.0%,1
+67,ICARS:24.08.19.094,PENICILLINE ,Penicillin,Tablet,"500,000IU",120615,23/09/2025,THE MEDICPHARMA,Thailand,0.5761 g        (-4.8 ; 1.9),98.9%,90.0 - 120.0%,1
+68,ICARS:24.08.19.095,AMPICILLINE,Ampicillin,Capsule,500mg,300542,12/2026,Coduphar,Laos,0.5979 g        (-1.4 ;2.5),97.9%,90.0 - 110.0%,1
+69,ICARS:24.08.19.096,AMOXYCILLINE,Amoxicillin,Capsule,500mg,6422069,06/07/26,T.O LAB,Thailand,0.5860 g        (-1.9 ; 2.2),102.3%,90.0 - 110.0%,1
+70,ICARS:24.08.19.097,METROZOL 500,Metronidazole,Tablet,500mg,2401020,14/01/28,Factory No:2,Laos,06276 g        (-4.1 ; 3.7),105.9%,92.5 - 107.5%,1
+71,ICARS:24.08.19.098,DOXYCYCLINE,Doxycycline,Capsule,100mg,312205,09/26,Codupha-lao,Laos,0.2455 g        (-6.2 ; 6.2),103.0%,90.0 - 120.0%,1
+72,ICARS:24.08.19.099,ERY 250,Erythromycin,Tablet,250mg,061223,06/26,CBF,Laos,0.3858g       (-5.0 ; 2.3),95.4%,90.0 - 120.0%,1
+73,ICARS:24.08.19.100,AMOXYCILLINE,Amoxicillin,Capsule,500mg,300204,12.2026,Codupha-lao,Laos,0.5859 g        (-3.7 ; 3.4),101.3%,90.0 - 110.0%,1
+74,ICARS:24.08.19.101,AMPICILLIN,Ampicillin,Capsule,500mg,2445012,07.27,KPN,Laos,0.5619g        (-1.0 ; 2.5),96.4%,90.0 - 110.0%,1
+75,ICARS:24.08.19.102,ERY 500,Erythromycin,Tablet,500mg,010324,09/2026,CBF,Laos,0.5856 g        (-1.0 ; 1.8),97.3%,90.0 - 120.0%,1
+76,ICARS:24.08.19.103,METRONIDAZOL,Metronidazole,Tablet,250mg,010123,07/25,CBF,Laos,0.4622 g        (-2.3 ; 3.0),101.3%,93.0 - 107.0%,1
+77,ICARS:24.08.19.104,CLAMOXYL,Amoxicillin,Capsule,500mg,A59w,08/2025,Glaxo wellcome,France,0.5756 g        (-0.8 ; 0.4),102.9%,90.0 - 110.0%,1
+78,ICARS:24.08.19.105,AZITROMICIN,Azithromycin,Tablet,500mg,240501,04/2026,Zhangfeng,CHINA,0.7819 g         (-4.0 ; 4.2),99.9%,90.0 - 110.0%,1
+79,ICARS:24.08.19.106,GANO SPEC500,Tetracycline,capsules,500mg,42401,9/1/27,PICCO,Thailand,0.5091 g        (-4.1; 3.7),97.1%,90.0 - 120.0%,1
+80,ICARS:24.08.19.107,VEJAK,Penicillin,Tablets,"400,000 IU",2205006,2025/05/04,North china,CHINA,0.2933 g        (-1.5 ; 1.2),99.5%,90.0 - 120.0%,1
+81,ICARS:24.08.19.108,PENICILLINE  V,Penicillin,Tablets,"1,000,000 IU",316,290526,THANH HOA,Vietnam,0.7241 g        (-1.7 ; 2.2),99.4%,90.0 - 120.0%,1
+82,ICARS:24.08.19.109,AZITHROMAX,Azithromycin,Tablets,250mg,081123,11.2026,Coduphar,Laos,0.3429 g        (-2.7 ; 3.8),98.1%,90.0 - 110.0%,1
+83,ICARS:24.08.19.110,CEFIXIME,Cefixime,Capsules,200mg,006-030524,03/05/2024,TV.pharm,Vietnam,0.4133 g        (-1.7 ; 1.3),106.3%,90.0 - 110.0%,1
+84,ICARS:24.08.19.111,N.L.DOXY,Doxycycline,Tablet,100mg,61173,20/01/2026,NEW LIFE,Thailand,0.2799g        (-2.9 ; 1.7),105.2%,90.0 - 120.0%,1
+85,ICARS:24.08.19.112,ERY 250,Erythromycin,Tablet,250 mg,061223,06.2026,CBF,Laos,0.3886 g        (-3.0 ; 1.8),95.4%,90.0 - 120.0%,1
+86,ICARS:24.08.19.113,PENICILLIN V KALI,Penicillin,Tablet,"1,000,000 IU",311,140326,THEPHACO,Vietnam,0.7184 g        (-3.0 ; 1.2),99.3%,90.0 - 120.0%,1
+87,ICARS:24.08.19.114,PENICILLIN,Penicillin,Tablet,"500,000IU",120476,16/09/2025,A.N.B,Thailand,0.5463g        (-3.6 ; 4.8),98.6%,90.0 - 120.0%,1
+88,ICARS:24.08.19.115,AMPICILLIN,Ampicillin,Tablet,250mg,300729,22/11/2026,CODUPHA,Laos,0.3578 g        (-5.0 ;3.0),96.2%,90.0 - 110.0%,1
+89,ICARS:24.08.19.116,LEOMYCIN,Tetracycline,Tablet,250mg,313673,22/11/2026,Coduphar,Laos,0.7284 g        (-3.5 ; 2.1),94.2%,90.0 - 120.0%,1
+90,ICARS:24.08.19.117,KLORAMPHENICOL,Chloramphenicol,Capsules,250mg,213301,18/02/2025,Coduphar,Laos,03870 g        (-5.2; 7.2),99.5%,90.0 - 110.0%,1
+91,ICARS:24.08.19.118,AMOXYCILLINE,Amoxicillin,Capsules,500mg,2446022,04/2027,Coduphar,Laos,0.'5786 g        (-1.1 ; 0.6),101.5%,90.0 - 110.0%,1
+92,ICARS:24.08.19.119,AMOX-- 500,Amoxicillin,Capsules,500mg,70623060,06/2026,Alliance,Laos,0.4879g        (-4.5 ; 4.9),92.1%,90.0 - 110.0%,1
+93,ICARS:24.08.19.120,AMPICILLIN,Ampicillin,Capsules,500mg,2445011,05.2027,KPN,Laos,0.5549 g        (-2.0 ; 3.0),95.1%,90.0 - 110.0%,1
+94,ICARS:24.08.19.121,ERY 500,Erythromycin,Tables,500mg,020524,11.2026,CBF,Laos,0.6005 g        (-0.9 ; 1.0),95.6%,90.0 - 120.0%,1
+95,ICARS:24.08.19.122,GANO SPEC 500,Tetracycline,Capsules,500mg,42317,10/2026,PICCO PHARMA,Thailand,0.5034 g        (-3.9 ; 4.9),94.1%,90.0 - 120.0%,1
+96,ICARS:24.08.19.123,AMOXYCILLINE,Amoxicillin,Capsules,500mg,300204,12.2026,Coduphar,Laos,0.5596 g        (-2.3 ; 5.0),96.7%,90.0 - 110.0%,1
+97,ICARS:24.08.19.124,AMPI - 500,Ampicillin,Capsules,500mg,709230601,04/26,Alliance,Laos,0.5184g        (-3.3 ; 4.2),92.6%,90.0 - 110.0%,1
+98,ICARS:24.08.19.125,DOXYCYCLINE,DOXYCYCLINE,Capsules,100mg,312206,09.2026,Coduphar,Laos,0.2541 g        (-5.8 ; 5.2),103.0%,90.0 - 120.0%,1
+99,ICARS:24.08.19.126,METROZOL 500,Metronidazole,Tables,500mg,081023,10.2026,CBF,Laos,5688 g        (-3.0 ; 2.5),95.9%,93.0 - 107.0%,1
+100,ICARS:24.08.19.127,AZITHROMYCIN,Azithromycin,Tables,500mg,230038001,05/2026, No:3,Laos,0.7029 g        (-1.2 ; 1.8),98.4%,90.0 - 110.0%,1
+101,ICARS:24.08.19.128,AZITHROMAX,Azithromycin,Tablets,250mg,050723,07/2026,CBF,Laos,0.3449 g        (-2.3 ; 1.9),99.1%,90.0 - 110.0%,1
+102,ICARS:24.08.19.129,AZITHROMAX,Azithromycin,Tablets,250mg,060823,08.2026,CBF,Laos,0.3419g        (-3.0 ; 2.9),99.9%,90.0 - 110.0%,1
+103,ICARS:24.08.19.130,STARMOX,Amoxicillin,Capsules,500mg,0818,02.05.2027,Seven Stars,Thailand,0.6084 g        (-2.2 ; 2.8),101.1%,90.0 - 110.0%,1
+104,ICARS:24.08.19.131,TETRACYCLIN,Tetracycline,capsules,250mg,67111,21/3/2028,HK,Thailand,0.2639 g        (-2.6 ; 2.1),107.3%,90.0 - 120.0%,1
+105,ICARS:24.08.19.132,KLORAMPHENICOL,Chloramphenicol,capsules,250mg,313315,09/11/2026,Coduphar,Laos,0.3990 g        (-3.9 ; 3.8),99.9%,90.0 - 110.0%,1
+106,ICARS:24.08.19.133,AMPICILLIN,Ampicillin,Tables,250mg,300731,04/12/2026,Coduphar,Laos,0.3649 g        (-3.9 ; 4.2),94.2%,90.0 - 110.0%,1
+107,ICARS:24.08.19.134,HEROL- 500,Tetracycline,Capsules,500mg,2202002,22/03/2022,KPN,Laos,0.5672 g        (-2.1 ; 1.9),94.1%,90.0 - 120.0%,1
+108,ICARS:24.08.19.135,METROZOL 500,Metronidazole,Tablets,500mg,091123,112026,CBF,Laos,0.5698g        (-1.6 ; 3.1),102.5%,93.0 - 107.0%,1
+109,ICARS:24.08.19.136,AMPICILLIN,Ampicillin,Capsules,500mg,2445005,05.2027,KPN,Laos,0.5651 g       (-3.3 ; 2.6),96.4%,90.0 - 110.0%,1
+110,ICARS:24.08.19.137,ERY 250,Erythromycin,Tables,250mg,050723,01.2026,CBF,Laos,0.3749g        (-2.2 ; 2.7),96.0%,90.0 - 120.0%,1
+111,ICARS:24.08.19.138,ERYTHRO 500,Erythromycin,Tables,500mg,312306,09.2025,Coduphar,Laos,0.9456 g        (-1.6 ; 1.1),106.1%,90.0 - 120.0%,1
+112,ICARS:24.08.19.139,DOXYCYCLINE,Doxycycline,Capsules,100mg,312204,05.2026,Coduphar,Laos,2595 g        (-6.4; 5.9),94.0%,90.0 - 120.0%,1
+113,ICARS:24.08.19.140,AMOXYCILLINE,Amoxicillin,Capsules,500mg,2446021,06.2027,KPN,Laos,0.5688 g        (-4.6 ; 4.1),97.1%,90.0 - 110.0%,1
+114,ICARS:24.08.19.141,A.M.MOX,Amoxicillin,Capsules,500mg,240101,18/01/2027,Macrophar,Thailand,0.5862 g        (-4.0 ; 2.8),101.5%,90.0 - 110.0%,1
+115,ICARS:24.08.19.142,CEFIXIME,Cefixime,Capsules,200mg,47030423,030425,VPC,Vietnam,0.3159g        (-2.8 ; 3.9),23.8%,90.0 - 110.0%,0
+116,ICARS:24.08.19.143,GRANO X500,Tetracycline,Capsules,500mg,65216,24/3/2026,HK,Thailand,0.5046 g        (-1.4 ; 4.0),94.7%,90.0 - 120.0%,1
+117,ICARS:24.08.19.144,KLORAMPHENICOL,Chloramphenicol,Capsules,250mg,313303,24/4/2026,Coduphar,Laos,3872 g        (-6.4 ; 6.0),99.0%,90.0 - 110.0%,1
+118,ICARS:24.08.19.145,ERYTHROMYCIN,Erythromycin,Tables,500mg,5450623,06.2026,Khaphaco,Vietnam,0.9045 g        (-0.3 ; 1.3),99.5%,90.0 - 120.0%,1
+119,ICARS:24.08.19.146,ERYTHROMYCIN,Erythromycin,Tables,250mg,190922,080925,Vidiphar,Laos,0.4755g        (-0.5 ; 1.3),92.5%,90.0 - 120.0%,1
+120,ICARS:24.08.19.147,AMOXYCILLINE,Amoxicillin,Capsules,500mg,300182,11.2026,Coduphar,Laos,0.6013g        (-2.3 ; 4.3),96.9%,90.0 - 110.0%,1
+121,ICARS:24.08.19.148,TETRACYCLIN,Tetracycline,Capsules,250mg,316102,10/3/26,Coduphar,Laos,03834 g        (-2.8 ; 2.4),96.9%,90.0 - 120.0%,1
+122,ICARS:24.08.19.149,AMPICILINE,Ampicillin,Capsules,500mg,2345032,09.2026,KPN,Laos,0.5717 g        (-1.9 ; 1.9),96.0%,90.0 - 110.0%,1
+123,ICARS:24.08.19.150,AMPICILINE,Ampicillin,Tables,500mg,2344004,7/2026,KPN,Laos,0.3553 g        (-3.3 ;2.0),96.6%,90.0 - 110.0%,1
+124,ICARS:24.08.19.151,CLAMOXYL,Amoxicillin,Capsules,500mg,A59W,01/11/2025,GLaxo ,France,0.5739 g        (-1.8 ; 0.5),102.6%,90.0 - 110.0%,1
+125,ICARS:24.08.19.152,AZITHROMAX,Azithromycin,Tables,250mg,071023,102026,CBF,Laos,0.3352g        (-2.7 ; 3.9),98.8%,90.0 - 110.0%,1
+126,ICARS:24.08.19.153,METROZOL 500,Metronidazole,Tables,500mg,060723,07.2026,CBF,Laos,0.6748 g        (-3.1 ; 1.9),96.8%,93.0 - 107.0%,1
+127,ICARS:24.08.19.154,DOXYLCAP,Doxycycline,Capsules,100mg,L495,18/01/28,Bankok lab,Thailand,0.2216 g        (-4.1; 3.8),104.1%,90.0 - 120.0%,1
+128,ICARS:24.08.19.155,HEROMYCIN,Tetracycline,Capsules,250mg,2201004,01/11/2025,KPN,Laos,0.4599 g        (-3.1 ; 2.5),101.8%,90.0 - 120.0%,1
+129,ICARS:24.08.19.156,AZILEB 500,Azithromycin,Taples,500mg,T3763,10.2025,LEBEN,India,0.5964 g        (-1.1 ; 2.0),99.9%,90.0 - 110.0%,1
+130,ICARS:24.08.19.157,AMPI 500,Ampicillin,Capsules,500mg,240501,05.2027,Alliance,Laos,0.4947g        (-5.8 ; 2.8),98.5%,90.0 - 110.0%,1
+131,ICARS:24.08.19.158,AMOX 500,Amoxicillin,Capsules,500mg,240401,04.2027,Alliance,Laos,0.4879 g        (-2.8 ; 3.1),92.6%,90.0 - 110.0%,1
+132,ICARS:24.08.19.159,AZITROMAX,Azithromycin,Tables,250mg,071023,102026,CBF,Laos,0.3349g          (-1.3 ; 1.7),99.3%,90.0 - 110.0%,1
+133,ICARS:24.08.19.160,AZITROMICIN,Azithromycin,Tables,500mg,240038002,03.2027,PF3,Laos,0.7099 g        (-1.4 ; 1.1),99.7%,90.0 - 110.0%,1
+134,ICARS:24.08.19.161,KLORAMPHENICOL,Chloramphenicol,Capsules,250mg,313310,3/9/2026,Coduphar,Laos,0.3941 g        (-5.9; 5.3),99.6%,90.0 - 110.0%,1
+135,ICARS:24.08.19.162,METRODYL500,Metronidazole,Taples,500mg,2401020,140123,PDC2,Laos,0.6277 g        (-3.9 ; 4.7),100.1%,90.0 - 110.0%,1
+136,ICARS:24.08.19.163,METRONIDAZOL,Metronidazole,Tables,250mg,010123,07.2025,CBF,Laos,0.4547g        (-3.0 ; 4.0),104.2%,90.0 - 110.0%,1
+137,ICARS:24.08.19.164,METROZOL,Metronidazole,Tables,500mg,030524,05.2027,CBF,Laos,0.5709 g       (-2.7 ; 4.7),104.8%,93.0 - 107.0%,1
+138,ICARS:24.08.19.165,ERY 500,Erythromycin,Tables,500mg,020524,11.2026,CBF,Laos,0.6138g        (-3.4 ; 1.7),97.0%,90.0 - 120.0%,1
+139,ICARS:24.08.19.166,DI -ERY 500,Erythromycin,Tables,500mg,001,06.2026,PF3,Laos,0.6849g        (-2.5 ; 2.1),93.0%,90.0 - 120.0%,1
+140,ICARS:24.08.19.167,DOXYCYCLINE,Doxycycline,Capsules,100mg,312206,09.2026,Coduphar,Laos,2472g        (-5.9 ; 5.7),104.6%,90.0 - 120.0%,1
+141,ICARS:24.08.19.168,DOXY 100,Doxycycline,Capsules,100mg,2305037,250526,PDC2,Laos,0.1873 g        (-4.8; 6.6),103.0%,90.0 - 120.0%,1
+142,ICARS:24.08.19.169,PENICILLIN  V,Penicillin,Tables,400.000,301105,10.2025,Coduphar,Laos,0.3891 g        (-1.9 ; 2.6),100.0%,90.0 - 120.0%,1
+143,ICARS:24.08.19.170,METROZOL,Metronidazole,Tables,500mg,030524,052027,CBF,Laos,0.5681g        (-2.2 ; 3.0),104.1%,93.0 - 107.0%,1
+144,ICARS:24.08.19.171,HYROMYCIN,Tetracycline,Capsules,250mg,63100122,181069,HERO,Thailand,0.2738g        (-2.9 ; 2.3),108.3%,90.0 - 120.0%,1
+145,ICARS:24.08.19.172,AMOXYCILLINE,Amoxicillin,Capsules,500mg,2446010,03.2027,KPN,Laos,0.5680 g        (-1.8 ; 4.9),99.0%,90.0 - 110.0%,1
+146,ICARS:24.08.19.173,ERY 500,Erythromycin,Tables,500mg,020524,11.2026,CBF,Laos,0.5988 g        (-1.4 ; 2.7),95.2%,90.0 - 120.0%,1
+147,ICARS:24.08.19.174,KLORAMPHENICOL,Chloramphenicol,Capsules,250mg,313304,17/5/2026,Coduphar,Laos,03938 g        (-7.4 ; 7.2),99.3%,90.0 - 110.0%,1
+148,ICARS:24.08.19.175,AMPICILLINE,Ampicillin,Tables,250mg,2444006,05.2027,KPN,Laos,0.3605g        (-2.3 ; 2.4),98.1%,90.0 - 110.0%,1
+149,ICARS:24.08.19.176,ERYTHRO 250,Erythromycin,Tables,250mg,312708,06.2026,Coduphar,Laos,0.5035g        (-1.7 ; 0.8),95.8%,90.0 - 120.0%,1
+150,ICARS:24.08.19.177,GANO SPEC500,Tetracycline,Capsules,500mg,42319,09/11/2026,PICCO,Thailand,0.5058 g        (-3.5 ; 2.4),93.8%,90.0 - 120.0%,1
+151,ICARS:24.08.19.178,TC MYCIN 500,Tetracycline,Capsules,500mg,266 T,20/06/2026,VESCO,Thailand,0.5173 g        (-2.1 ; 1.8),102.5%,90.0 - 120.0%,1
+152,ICARS:24.08.19.179,DOXYCAP,Doxycycline,Capsules,100mg,L209,28/04/2027,Bankok lab,Thailand,0.2232 g        (-2.5; 1.2),108.2%,90.0 - 120.0%,1
+153,ICARS:24.08.19.180,T.V.MOX500,Amoxicillin,Capsules,500mg,L/C11486501,090726,T -.MAN,Thailand,0.6138g        (-2.1 ;3.4),100.6%,90.0 - 110.0%,1
+154,ICARS:24.08.19.181,VEJAR .VK,Penicillin,Tablet,"400,000 IU",2205006,2025/05/04,North china,CHINA,0.2935 g        (-1.4 ; 1.1),99.4%,90.0 - 110.0%,1
+155,ICARS:24.08.19.182,CEFO-L,Cefixime,Tables,200mg,40010,12.2026,Medley,India,0.4776 g        (-1.3 ; 2.1),99.9%,90.0 - 110.0%,1
+156,ICARS:24.08.19.183,AZITHROMYCIN,Azithromycin,Tables,500mg,240501,4.2026,Zhangfeng,China,0.7676g        (-4.3 ; 2.1),98.6%,90.0 - 110.0%,1
+157,ICARS:24.08.19.184,CEFIXIME,Cefixime,Capsules,200mg,001-310124,31/01/2027,TV.pharm,Vietnam,0.4121 g        (-1.8 ; 2.3,104.9%,90.0 -110.0%,1
+158,ICARS:24.08.19.185,HEROMYCIN,Tetracycline,Capsules,250mg,63100123,261069,HERO,Thailand,0.2718g        (-1.6 ; 2.3),101.9%,90.0 - 120.0%,1
+159,ICARS:24.08.19.186,AMOXYCILLINE,Amoxicillin,Capsules,500mg,2446023,04-2027,KPN,Laos,0.5836 g        (-1.4 ; 2.4),99.9%,90.0 - 110.0%,1
+160,ICARS:24.08.19.187,AMPICILLINE,Ampicillin,Capsules,500mg,300540,12-2026,Coduphar,Laos,0.5972 g        (-3.3 ; 2.3),96.4%,90.0 - 110.0%,1
+161,ICARS:24.08.19.188,STARMOX 500,Amoxicillin,Tables,500mg,70154,01.2027,Seven Stars,Thailand,0.8254 g        (-2.1 ;0.9),102.5%,90.0 - 110.0%,1
+162,ICARS:24.08.19.189,AMOXYCYCLIN,Amoxicillin,Capsules,500mg,2445023,04.2027,KPN,Laos,0.5804 g        (-3.1 ; 3.5),99.3%,90.0 - 110.0%,1
+163,ICARS:24.08.19.190,DOXYCYCLINE,Doxycycline,Capsules,100mg,312206,09.2026,Coduphar,Laos,0.2490 g        (-4.2 ; 3.5),102.3%,90.0 - 120.0%,1
+164,ICARS:24.08.19.191,DI -ERY 500,Erythromycin,Capsules,500mg,001,06.2026,PF3,Laos,0.6730 g        (-1.4 ; 1.3),98.2%,90.0 - 120.0%,1
+165,ICARS:24.08.19.192,HEROMYCIN,Tetracycline,Capsules,250mg,231003,11.2026,KPN,Laos,0.4307 g       (-2.1 ; 3.6),92.9%,90.0 - 120.0%,1
+166,ICARS:24.08.19.193,METROZOL,Metronidazole,Tablets,500mg,020324,032027,CBF,Laos,0.5686g        (-2.8 ; 3.0),101.5%,93.0 - 107.0%,1
+167,ICARS:24.08.19.194,GANOSPEC500,Tetracycline,Capsules,500mg,42317,26/10/2026,PICCO,Thailand,0.5103 g        (-2.8 ; 4.6),95.3%,90.0 - 120.0%,1
+168,ICARS:24.09.03.195,DOXYCYCLINE,Doxycycline,Capsul,100 mg,312201,01/2026,Codupha-lao,Laos,0.2665 g        (-3.4 ; 3.6),106.8%,90.0 - 120.0%,1
+169,ICARS:24.09.03.196,METROZOL 500,Metronidazole,Tablet,500mg,030524,05/2027,CBF,Laos,0.5696g        (-1.3; +2.8),100.0%,93.0 - 107.0%,1
+170,ICARS:24.09.03.197,ERYTHRO-250,Erythromycin,Tablet,250mg,312706,10/2026,Codupha-lao,Laos,0.5025 g        (-3.1 ; 2.8),99.7%,90.0 - 120.0%,1
+171,ICARS:24.09.03.198,PENICILLIN V,Penicillin,Tablet,"400,000 IU",301103,09/2025,Codupha-lao,Laos,0.3885g        (-3.3 ; 1.7),102.4%,90.0 - 120.0%,1
+172,ICARS:24.09.03.199,Erythromycin,Erythromycin,Tablet,500mg,3540424,04/2027,KHAPHARCO PHARMA,Vietnam,0.8879 g        (-0.8 ; 0.9),103.7%,90.0 - 120.0%,1
+173,ICARS:24.09.03.200,AMPICILLIN,Ampicillin,Capsul,500mg,300404,11/2026,Codupha-lao,Laos,0.5530 g        (-1.3 ; 1.0),96.7%,90.0 - 110.0%,1
+174,ICARS:24.09.03.201,AMOXYCILLIN,Amoxicillin,Capsul,500mg,300190,11/2026,Codupha-lao,Laos,0.5909 g        (-3.1 ; 5.3),99.9%,90.0 - 120.0%,1
+175,ICARS:24.09.03.202,TETRA,Tetracycline,Capsules,250mg,316101,10/3/2026,Codupha-lao,Laos,0.3991 g        (-2.3 ; 2.8),93.9%,90.0 - 110.0%,1
+176,ICARS:24.09.03.203,AMPICILLIN,Ampicillin,Tablet,250mg,2444004,05/2027,KPN,Laos,0.3578g        (-2.2 ; 2.3),95.4%,90.0 - 110.0%,1
+177,ICARS:24.09.03.204,KLORAMPHENICOL,Chloramphenicol,Capsul,250mg,313310,3/9/2026,Codupha-lao,Laos,0.3900 g        (-7.2; 6.4),93.3%,90.0 - 110.0%,1
+178,ICARS:24.09.03.205,CEFIXIME ,Cefixime,Capsul,200mg,006-030524,3/5/2027,TV.PHRM,Vietnam,4115 g        (-4.1 ; 2.0),99.9%,90.0 - 110.0%,1
+179,ICARS:24.09.03.206,Penicillin V,Penicillin,Tablet,500.000 iu,119223,19/8/2025,THE MEDICPHARMA,Thailand,0.5627 g        (-2.2 ;1.4),106.1%,90.0 - 120.0%,1
+180,ICARS:24.09.03.207,Penicillin V Kali,Penicillin,Tablet,"1,000,000 IU",851123,021226,VIDIPHA,Vietnam,0.7298 g        (-1.1 ; 0.9),105.9%,90.0 - 120.0%,1
+181,ICARS:24.09.03.208,Azithromycin,Azithromycin,Tablet,500mg,240501,04/2026,ZHANGFENG,China,0.7916g        (-4.2; 3.5),100.0%,90.0 - 110.0%,1
+182,ICARS:24.09.03.209,PENICILLIN,Penicillin,Tablet,"500,000 IU",119223,19/8/2026,THE MEDICPHARMA,Thailand,0.5734 g        (-1.7 ; 2.0),104.6%,90.0 - 120.0%,1
+183,ICARS:24.09.03.210,Azenat 500,Azithromycin,Tablet,500mg,02301,22/8/2026,TROUNG THO PHARMA,Vietnam,0.7135 g        (-1.9 ; 1.8),99.4%,90.0 - 110.0%,1
+184,ICARS:24.09.03.211,Clamoxyl,Amoxicillin,Capsule,500mg,A59w,08/2026,Glaxo wellcome,France,0.5732g        (-1.1 ; 0.9),99.2%,90.0 - 120.0%,1
+185,ICARS:24.09.03.212,CEFIXIME,Cefixime,Capsule,200mg,006-030524,3/5/2027,TV.PHRM,Vietnam,0.4113 g        (-2.3 ; 2.3),102.4%,90.0 - 110.0%,1
+186,ICARS:24.09.03.213,METRONIDAZOLE,Metronidazole,Tablet,500mg,213705,18/7/2025,Codupha-lao,Laos,0.6014g        (-3.5 ; 2.6),93.6%,90.0 - 120.0%,1
+187,ICARS:24.09.03.214,MEKOPEN,Penicillin,Tablet,"1,000,000 IU",23051AN,201225,Joint-stock,Vietnam,0.7240 g        (-1.0 ; 0.3),105.8%,90.0 - 120.0%,1
+188,ICARS:24.09.03.215,Erythromycin,Erythromycin,Tablet,500mg,3540424,04/2027,KHAPHARCO PHARMA,Vietnam,0.8875 g        (-1.0 ; 0.8),104.0%,90.0 - 120.0%,1
+189,ICARS:24.09.03.216,VEJAK-VK,Penicillin,Tablet,"400,000 IU",12205008,20250505,ZD North China,China,0.3415 g        (-0.5 ; 0.5),98.1%,90.0 - 120.0%,1
+190,ICARS:24.09.03.217,DOXYCAP,Doxycycline,Capsule,100mg,CD09633,08/2026,HOVID,India,0.2489 g        (-3.7 ; 3.6),101.8%,90.0 - 120.0%,1
+191,ICARS:24.09.03.218,DOXYCAP,Doxycycline,Capsule,100mg,CD09627,08/2026,HOVID,India,0.2466 g        (-4.3 ; 4.8),96.9%,90.0 - 120.0%,1
+192,ICARS:24.09.03.219,DOXYCYCLINE,Doxycycline,Capsule,100mg,312206,09/2026,Codupha-lao,Laos,0.2538 g        (-4.9 ; 3.2),105.8%,90.0 - 120.0%,1
+193,ICARS:24.09.03.220,AMOX-500,Amoxicillin,Capsule,500mg,706230601,06/2026,Alliance,Laos,0.5208 g       (-3.2 ; 2.8),97.4%,90.0 - 120.0%,1
+194,ICARS:24.09.03.221,AMPI-500,Ampicillin,Capsule,500mg,709230601,08/2026,Alliance,Laos,0.4833g        (-1.9 ; 1.6),95.7%,90.0 - 110.0%,1
+195,ICARS:24.09.03.222,Tetracycline,Tetracycline,Capsules,250mg,3DA0060,11/1/2026,Asian Union,Thailand,0.3346 g        (-1.8; 1.7),104.8%,90.0 - 110.0%,1
+196,ICARS:24.09.03.223,KLORAMPHENICOL,Chloramphenicol,Capsule,250mg,313315,9/1/2026,Codupha-lao,Laos,0.3919 g        (-7.2 ; 6.4),98.8%,90.0 - 110.0%,1
+197,ICARS:24.09.03.224,AMPIILLIN ,Ampicillin,Tablet,250mg,300601,12/2026,Codupha-lao,Laos,0.3559 g        (-1.6 ; 3.3),96.7%,90.0 - 110.0%,1
+198,ICARS:24.09.03.225,ERYTHRO 250,Erythromycin,Tablet,250mg,312708,11.26,Codupha-lao,Laos,0.4945 g        (-2.9 ; 4.7),99.9%,90.0 - 120.0%,1
+199,ICARS:24.09.03.226,BOMCIN 500,Tetracycline,Capsules,500mg,2225214,31/10/2025,New charoen,Thailand,0.6163 g        (-1.2 ; 0.6),102.6%,90.0 - 110.0%,1
+200,ICARS:24.09.03.227,Cefixim200,Cefixime,Capsule,200mg,26130223,13/2/2025,VPC PHARIMEXCO,Vietnam,0.3236 g        (-3.4 ; 4.1),106.6%,90.0 - 110.0%,1
+201,ICARS:24.09.03.228,DOXYCYCLINE,Doxycycline,Capsule,100mg,312203,23/5/2026,Codupha-lao,Laos,0.2905 g        (-2.3 ; 2.0),106.7%,90.0 - 120.0%,1
+202,ICARS:24.09.03.229,GANO spec500,Tetracycline,Capsule,500mg,42216,9/11/20225,PICCO PHARMA,Thailand,0.5109 g       (-2.2 ; 2.5),101.6%,90.0 - 110.0%,1
+203,ICARS:24.09.03.230,AZITHROMYCIN,Azithromycin,Tablet,500mg,230038006,08/2026,Factory No:3,Laos,0.7085 g        (-2.4 ; 3.2),99.5%,90.0 - 110.0%,1
+204,ICARS:24.09.03.231,METROZOL 500,Metronidazole,Tablet,500mg,091123,11/2026,CBF,Laos,0.5512 g        (-2.2 ; 2.9,100.2%,93.0 - 107.0%,1
+205,ICARS:24.09.03.232,MEKOPEN,Penicillin,Tablet,"1,000,000 IU",23012AN,240625,CTCP Mekophar,Vietnam,0.7316 g        (-0.5; 0.5),106.0%,90.0 - 120.0%,1
+206,ICARS:24.09.03.233,VEJAR-VK,Penicillin,Tablet,"400,000 IU",2205006,4/5/2025,. North China ,China,0.2897 g        (-0.8 ; 1.9),98.2%,90.0 - 120.0%,1
+207,ICARS:24.09.03.234,ERYTHRO-250,Erythromycin,Tablet,250mg,312706,10/2026,Codupha-lao,Laos,0.4986 g        (-4.6 ; 3.7),102.1%,90.0 - 120.0%,1
+208,ICARS:24.09.03.235,HEROMYCIN,Tetracycline,Capsules,250mg,63100129,23.11.65,HERO,Thailand,0.2748 g        (-2.0 ; 2.6),104.3%,90.0 - 110.0%,1
+209,ICARS:24.09.03.236,AMOXYCILLIN,Amoxicillin,Capsule,500mg,2446021,04/2027,KPN,Laos,0.5854 g        (-2.6 ; 3.7),98.3%,90.0 - 120.0%,1
+210,ICARS:24.09.03.237,AMPICILLIN,Ampicillin,Capsule,500mg,2445001,05/2027,KPN,Laos,0.5624 g        (-1.2 ; 1.7),96.5%,90.0 - 110.0%,1
+211,ICARS:24.09.03.238,KLORAMPHENICOL,Chloramphenicol,Capsule,250mg,313302,24/4/2026,Codupha-lao,Laos,0.3908 g        (-7.4 ; 4.9),97.8%,90.0 - 110.0%,1
+212,ICARS:24.09.03.239,AMPICILLIN,Ampicillin,Tablet,250mg,2444001,05/2027,KPN,Laos,0.3559 g        (-1.4 ; 1.3),97.2%,90.0 - 110.0%,1
+213,ICARS:24.09.03.240,LEOMYCIN,Tetracycline,Tablet,250mg,313601,15/1/2026,Codupha-lao,Laos,0.7544 g        (-0.8 ; 0.5),93.6%,90.0 - 110.0%,1
+214,ICARS:24.09.03.241,GALNO KPN,Tetracycline,Capsules,500mg,2217001,5/2025,KPN,Laos,0.5774 g        (-0.6 ;0.4),104.3%,90.0 - 110.0%,1
+215,ICARS:24.09.03.242,AZTHROMYCIN,Azithromycin,Tablae,500mg,240038002,03/2027,Factory No:3,Laos,0.7088 g        (-2.4 ; 3.1),98.7%,90.0 - 110.0%,1
+216,ICARS:24.09.03.243,AZTHROMYCIN,Azithromycin,Tables,500mg,240038001,03/2027,Factory No:3,Laos,0.7078 g        (-2.4 ; 3.2),99.6%,90.0 - 110.0%,1
+217,ICARS:24.09.03.244,METROZOL 500,Metronidazole,TABLET,500mg,030524,05/2027,CBF,Laos,0.5601 g        (-3.0 ; 2.3),101.8%,93.0 - 107.0%,1
+218,ICARS:24.09.03.245,AMOXYCILLIN,Amoxicillin,Capsule,500mg,300195,12/2026,CODUPHA,Laos,0.5920 g        (-3.3 ; 5.0),99.9%,90.0 - 120.0%,1
+219,ICARS:24.09.03.246,PENICILLIN V,Penicillin,Tablet,"400,000 IU ",301101,02/2025,Coduphar lao,Laos,0.3815 g        (-1.8 ; 1.2),99.7%,90.0 - 120.0%,1
+220,ICARS:24.09.03.247,ERYTHROMYCIN,Erythromycin,Tablet,500mg,012024,01/03/2028,Armephaco,Vietnam,0.9263 g        (-1.2 ; 1.1),98.7%,90.0 - 120.0%,1
+221,ICARS:24.09.03.248,ERYTHRO-250,Erythromycin,Tablet,250mg,312704,07/2026,Coduphar lao,Laos,0.5216 g        (-7.5 ; 6.5),102.8%,90.0 - 120.0%,1
+222,ICARS:24.09.03.249,VEJAR-VK,Penicillin,Tablet,"400,000 IU",L2205008,5/5/2025,NCPC North China ,China,0.2929 g        (-1.9 ; 0.9),98.4%,90.0 - 120.0%,1
+223,ICARS:24.09.03.250,LEOMYCIN,Tetracycline,Tablet,250mg,313601,15/1/2026,Codupha-lao,Laos,0.7566 g        (-0.7 ; 0.7),99.3%,90.0 - 110.0%,1
+224,ICARS:24.09.03.251,Tetracycline,Tetracycline,Capsules,250mg,67159,24/4/2028,HK pharmacetical,Thailand,0.2665 g        (-2.0 ; 2.5),104.4%,90.0 - 110.0%,1
+225,ICARS:24.09.03.252,KLORAMPHENICOL,Chloramphenicol,Capsules,250mg,313312,1/1/2026,Codupha-lao,Laos,0.3957 g        (-5.6 ; 4.4),100.8%,90.0 - 110.0%,1
+226,ICARS:24.09.03.253,AMPICILLIN,Ampicillin,Tablet,250mg,2444012,07/2027,KPN,Laos,0.3612 g        (-2.7 ; 2.2),96.1%,90.0 - 110.0%,1
+227,ICARS:24.09.03.254,DOXYCLINE,Doxycycline,Capsule,100mg,212204,10/2025,Codupha-lao,Laos,0.2443 g        (-0.6 ; 0.6),100.1%,90.0 - 120.0%,1
+228,ICARS:24.09.03.255,Azithromycin,Azithromycin,Tablet,500mg,230901,08/2025,ZHANGFENG,China,0.8035 g        (-1.5 ; 1.2),99.2%,90.0 - 110.0%,1
+229,ICARS:24.09.03.256,Azithromycin,Azithromycin,Tables,500mg,230038003,05/2026,Factory No:3,Laos,0.7087 g        (-2.5 ; 3.1),99.8%,90.0 - 110.0%,1
+230,ICARS:24.09.03.257,AMPICILLIN,Ampicillin,Capsule,500mg,2345033,09/2026,KPN,Laos,0.5508 g        (-1.8 ; 1.7),97.3%,90.0 - 110.0%,1
+231,ICARS:24.09.03.258,CEFIXIM,Cefixime,TABLET,200mg,90100623,10/6/2025,VPC PHARIMEXCO,Vietnam,319.7 g        (-2.7 ; 3.4),100.9%,90.0 - 110.0%,1
+232,ICARS:24.09.03.259,METROZOL 500,Metronidazole,Tables,500mg,020324,03/2027,CBF,Laos,0.5772g        (-3.9 ; 2.0),104.6%,92.5 - 107.5%,1
+233,ICARS:24.09.03.260,AZITHROMAX,Azithromycin,Tablet,250mg,081123,11/2026,CBF,Laos,0.3349 g        (-1.7 ; 1.7),98.8%,90.0 - 110.0%,1
+234,ICARS:24.09.03.261,AMOX-500,Amoxicillin,Capsule,500mg,240401,04/2027,Alliance,Laos,0.4907g        (-3.3 ; 3.6),96.1%,90.0 - 120.0%,1
+235,ICARS:24.09.03.262,METRONIDAZOLE,Metronidazole,Tablet,250mg,051023,04/2026,CBF,Laos,0.4551g        (-3.9 ; 2.6),97.6%,93.0 - 107.0%,1
+236,ICARS:24.09.03.263,Penicillin V Kali,Penicillin,Tablet,"1,000,000 IU",1301223,30/12/2026,T.V ,Vietnam,0.7243 g        (-0.6 ; 1.3),102.0%,90.0 - 120.0%,1
+237,ICARS:24.09.03.264,VEJAR-VK,Penicillin,Tablet,"400,000 IU",L2205007,4/5/2025, North China ,China,0.2901 g        (-1.6 ; 1.4),100.9%,90.0 - 120.0%,1
+238,ICARS:24.09.03.265,AMPICILLIN,Ampicillin,TABLET,250mg,300601,6/12/2026,Codupha-lao,Laos,0.3695g        (-3.1 ; 3.3),98.2%,90.0 - 110.0%,1
+239,ICARS:24.09.03.266,KLORAMPHENICOL,Chloramphenicol,Capsules,250mg,67111,21/3/2026,H K ,Thailand,0.3946 g        (-7.3 ; 6.5),98.5%,90.0 - 110.0%,1
+240,ICARS:24.09.03.267,Tetracycline,Tetracycline,Capsules,250mg,313312,1/11/2026,Codupha-lao,Laos,2670 g        (-2.7; 2.5),98.1%,90.0 - 110.0%,1
+241,ICARS:24.09.03.268,Tetracycline,Tetracycline,Capsules,250mg,67157,24/4/2028,H K,Thailand,0.2623 g        (-3.2 ; 3.7),95.0%,90.0 - 110.0%,1
+242,ICARS:24.09.03.269,DOXYCYCLINE,Doxycycline,Capsul,100 mg,312206,09/2026,Codupha-lao,Laos,0.2747g        (-4.3; 3.7),107.3%,90.0 - 120.0%,1
+243,ICARS:24.09.03.270,METROZOL 500,Metronidazole,Tablet,500mg,071023,10/2026,CBF,Laos,0.5662 g        (-2.1 ; 2.9),102.7%,93.0 - 107.0%,1
+244,ICARS:24.09.03.271,ERY-250,Erythromycin,Tablet,250mg,212704,04/2025,Codupha-lao,Laos,0.4977 g        (-4.1 ; 4.2),104.5%,90.0 - 120.0%,1
+245,ICARS:24.09.03.272,AMPICILLIN,Ampicillin,Capsul,500mg,300542,12/2026,Codupha-lao,Laos,0.5882 g        (-1.2 ; 0.9),95.0%,90.0 - 110.0%,1
+246,ICARS:24.09.03.273,AMPI-500,Ampicillin,Capsul,500mg,709230601,06/2026,Alliance,Laos,0.5057 g        (-2.3 ; 1.3),97.1%,90.0 - 110.0%,1
+247,ICARS:24.09.03.274,AMOXYCILLIN,Amoxicillin,Capsul,500mg,300196,12/2026,Codupha-lao,Laos,05914 g        (-3.7 ; 4.6),99.4%,90.0 - 120.0%,1
+248,ICARS:24.09.03.275,ERY-500,Erythromycin,Tablet,500mg,010324,09/2026,CBF,Laos,0.6089 g        (-4.6 ; 3.6),93.8%,90.0 - 120.0%,1
+249,ICARS:24.09.03.276,AMOXYCILLIN 500,Amoxicillin,Capsul,500mg,114769,06/05/2026,Medic pharma,Thailand,0.5904 g        (-2.0; 3.5),98.3%,90.0 - 120.0%,1
+250,ICARS:24.09.03.277,KLORAMPHENICOL,Chloramphenicol,Capsul,250mg,313306,6/7/26,Codupha-lao,Laos,0.3825 g        (-6.1 ; 7.3),94.0%,90.0 - 110.0%,1
+251,ICARS:24.09.03.278,METROZOL 500,Metronidazole,Tablet,500mg,030524,05/2027,CBF,Laos,0.5680 g        (-1.7 ; 2.3),100.5%,93.0 - 107.0%,1
+252,ICARS:24.09.03.279,AZITHROMAX,Azithromycin,Tablet,250mg,010124,01/2027,CBF,Laos,0.3319 g        (-2.5; 3.4),99.7%,90.0 - 110.0%,1
+253,ICARS:24.09.03.280,AMPI-500,Ampicillin,Capsul,500mg,709230601,06/2026,Alliance,Laos,5076 g        (-2.7 ; 2.5),97.3%,90.0 - 110.0%,1
+254,ICARS:24.09.03.281,AMOXYCILLIN,Amoxicillin,Capsul,500mg,300205,12/2026,Codupha-lao,Laos,0.5958 g        (-3.4 ; 4.0),99.8%,90.0 - 120.0%,1
+255,ICARS:24.09.03.282,AMOX-500,Amoxicillin,Capsul,500mg,706230601,06/2026,Alliance,Laos,0.5220 g        (-3.0 ; 2.9),97.3%,90.0 - 120.0%,1
+256,ICARS:24.09.03.283,MOXY-500,Amoxicillin,Capsul,500mg,67156,19/04/2027,HK,Thailand,0.5655 g        (-4.2 ; 4.8),99.3%,90.0 - 120.0%,1
+257,ICARS:24.09.03.284,ERYTHRO-250,Erythromycin,Tablet,250mg,312707,11/2026,Codupha-lao,Laos,0.4939 g        (-3.8 ; 5.3),99.5%,90.0 - 120.0%,1
+258,ICARS:24.09.03.285,ERY-500,Erythromycin,Tablet,500mg,030423,10/2025,CBF,Laos,0.3819 g        (-5.2 ; 4.3),94.2%,90.0 - 120.0%,1
+259,ICARS:24.09.03.286,AMPICILLIN,Ampicillin,Capsul,500mg,300543,12/2026,Codupha-lao,Laos,0.5908 g        (-1.8 ; 2.0),96.9%,90.0 - 110.0%,1
+260,ICARS:24.09.03.287,AMPICILLIN,Amoxicillin,Tablet,250,300601,12/2026,Codupha-lao,Laos,0.3642 g        (-2.7 ; 2.4),94.6%,90.0 - 110.0%,1
+261,ICARS:24.09.03.288, DI-ERY 500,Erythromycin,Tablet,500mg,006,09/2026,N0.3,Laos,0.6677 g        (-2.7 ; 1.8),102.4%,90.0 - 120.0%,1
+262,ICARS:24.09.03.289,DOXYCYCLINE,Doxycycline,Capsul,100mg,312206,09/2026,Codupha-lao,Laos,0.2491 g        (-1.8 ; 3.1),105.8%,90.0 - 120.0%,1
+263,ICARS:24.09.03.290,DOXYLCAP,Doxycycline,Capsul,100mg,209,28/4/2027,Bankok Lab,Thailand,0.2223g        (-1.5 ; 1.6),104.0%,90.0 - 120.0%,1
+264,ICARS:24.09.03.291,METRONIDAZOL,Metronidazole,Tablet,250mg,040723,01/2026,CBF,Laos,0.4493 g        (-3.7; 4.4),104.0%,93.0 - 107.0%,1
+265,ICARS:24.09.03.292,Tetracycline,Tetracycline,Capsules,250mg,67111,21/3/2028,HK,Thailand,0.2731 g        (-2.3 ; 2.9),101.4%,90.0 - 110.0%,1
+266,ICARS:24.09.03.293,Tetracycline,Tetracycline,Capsules,250mg,240636,06/2027,ZD,China,0.3959 g        (-2.7 ; 2.3),98.8%,90.0 - 110.0%,1
+267,ICARS:24.09.03.294,Penicilin V Kali,Penicillin,Tables,"1,000,000IU",303,050226,THEPHACO,Vietnam,0.7211 g        (-1.0 ; 0.9),100.5%,90.0 - 120.0%,1
+268,ICARS:24.09.03.295,Cefixim 400-CGP,Cefixime,Tablet,400mg,90100623,100625,VPC PHARIMEXCO,Vietnam,0.8625 g        (-1.4 ; 1.2),107.8%,90.0 - 110.0%,1
+269,ICARS:24.09.03.296,AMPI-500,Ampicillin,Capsul,500mg,240501,05.2027,Alliance,Laos,0.5182 g        (-1.9 ; 1.7),96.4%,90.0 - 110.0%,1
+270,ICARS:24.09.03.297,MOXY-250,Amoxicillin,Capsul,250mg,66080,17/2/2026,HK,Thailand,0.3327 g        (-5.8; 7.1),99.5%,90.0 - 120.0%,1
+271,ICARS:24.09.03.298,Penicilin V Kali,Penicillin,Tablet,400.000IU,010423,06/02/2026,MD Pharco,Vietnam,3127 g        (-2.9 ; 1.3),104.1%,90.0 - 120.0%,1
+272,ICARS:24.09.03.299,AMOXYCILLIN,Amoxicillin,Capsul,500mg,300203,12/2026,Codupha-lao,Laos,0.6007 g        (-5.0 ; 3.2),99.0%,90.0 - 120.0%,1
+273,ICARS:24.09.03.300,Penicilin V Kali,Penicillin,Tablet,1.000.000IU,311,14/03/2026,THEPHACO,Vietnam,0.7152 g        (-1.1 ; 0.4),105.3%,90.0 - 120.0%,1
+274,ICARS:24.09.03.301,DOXYLCAP,Doxycycline,Capsul,100mg,209,28/4/2027,BANKOK LAB,Thailand,0.2238 g        (-1.1 ; 2.1),100.4%,90.0 - 120.0%,1
+275,ICARS:24.09.03.302,AMPICILLIN,Ampicillin,Capsul,500mg,300501,03/2026,Codupha-lao,Laos,0.5893 g        (-1.6 ; 3.0),97.0%,90.0 - 110.0%,1
+276,ICARS:24.09.03.303,KLORAMPHENICOL,Chloramphenicol,Capsules,250mg,3133301,16/03/2026,Codupha-lao,Laos,0.3887 g        (-7.2; 7.1),91.5%,90.0 - 110.0%,1
+277,ICARS:24.09.03.304,ERYTHROMYCIN,Erythromycin,Tablet,500mg,022024,15/062028,Armephaco,Vietnam,0.9280 g        (-0.7; 0.9),100.4%,90.0 - 120.0%,1
+278,ICARS:24.09.03.305,ERYTHRO-250,Erythromycin,Tablet,250mg,312701,02/2026,Codupha-lao,Laos,0.4988 g        (-3.0 ; 3.5),102.1%,90.0 - 120.0%,1
+279,ICARS:24.09.03.306,METROZOL 500,Metronidazole,Tablet,500mg,040524,05/2027,CBF,Laos,0.5764 g        (-1.9 ; 1.8),102.6%,93.0 - 107.0%,1
+280,ICARS:24.09.03.307, DI-ERY 500,Erythromycin,Tables,500mg,001,06/2026,N0.3,Laos,0.6713 g        (-2.0 ; 1.8),95.5%,90.0 - 120.0%,1
+281,ICARS:24.09.03.308,AZITHROMYCIN,Azithromycin,Tables,500mg,240038004,03/2027,No.3,Laos,0.6961 g        (-3.0 ; 4.2),99.8%,90.0 - 110.0%,1
+282,ICARS:24.09.03.309,AMPICILLIN,Amoxicillin,Tablet,250mg,2444009,05/2027,KPN,Laos,0.3586 g        (-2.2 ; 1.4),96.2%,90.0 - 110.0%,1
+283,ICARS:24.09.03.310,LEOMYCIN,Tetracycline,Tables,250mg,313601,15/01/2026,Codupha-lao,Laos,0.7588 g        (-0.9 ; 1.2),96.4%,90.0 - 110.0%,1
+284,ICARS:24.09.03.311,PENCILLIN,Penicillin,Tablet,500.000IU,117755,27/07/2025,The medicpharma,Thailand,0.5694 g        (-1.6 ; 1.1),97.2%,90.0 - 120.0%,1
+285,ICARS:24.09.03.312,ZAMOCIL 500,Amoxicillin,Capsule,500mg,230622,05/2026,Sinopharm,China,0.5821g        (-3.1 ; 2.4),100.2%,90.0 - 120.0%,1
+286,ICARS:24.09.03.313,AMOXYCILLIN,Amoxicillin,Capsule,500mg,2446020,04/2027,KPN,Laos,0.5856 g        (-2.5 ; 3.6),96.4%,90.0 - 120.0%,1
+287,ICARS:24.09.03.314,AMOX-500,Amoxicillin,Capsul,500mg,240401,04/2027,Alliance,Laos,0.4862 g        (-2.5 ; 4.6),98.2%,90.0 - 120.0%,1
+288,ICARS:24.09.03.315,Penicilin V Kali,Penicillin,Tapbles,"1,000,000IU",250424,17/4/2027,Vidiphar,Vietnam,7268 g        (-0.6 ; 1.0),102.2%,90.0 - 120.0%,1
+289,ICARS:24.09.03.316,Penicilin V ,Penicillin,TABLET,"400,000IU",301103,9/1/25,Codupha-lao,Laos,0.3939 g        (-3.4 ; 1.3),103.8%,90.0 - 120.0%,1
+290,ICARS:24.09.03.317,AMPICILLIN,Ampicillin,Tables,500mg,300535,11/2026,Codupha-lao,Laos,0.6017 g        (-2.0 ; 1.7),97.2%,90.0 - 110.0%,1
+291,ICARS:24.09.03.318,Starmox 500,Amoxicillin,Tabales,500mg,70154,1/2027,Seven Star,Thailand,0.8232 g        (-1.3 ; 1.3),99.7%,90.0 - 120.0%,1
+292,ICARS:24.09.03.319,METROZOL 500,Metronidazole,Tablet,500mg,020324,03/2027,CBF,Laos,0.5687 g        (-3.1 ; 3.6),106.5%,93.0 - 107.0%,1
+293,ICARS:24.09.03.320,AZITHROMAX,Azithromycin,Tables,250mg,81123,11/2026,CBF,Laos,0.3325 g        (-2.4; 2.9),98.7%,90.0 - 110.0%,1
+294,ICARS:24.09.03.321, DI-ERY 500,Erythromycin,Tables,500mg,005,09/2026,No.3,Laos,0.6748 g        (-1.1 ; 2.2),94.0%,90.0 - 120.0%,1
+295,ICARS:24.09.03.322,ERYTHRO-250,Erythromycin,Tablet,250mg,312706,10/2026,Codupha-lao,Laos,0.4967g        (-3.2 ; 4.6),102.0%,90.0 - 120.0%,1
+296,ICARS:24.09.03.323,ERYTHRO-250,Erythromycin,Tablet,250mg,312704,07/2026,Codupha-lao,Laos,0.5015 g        (-7.3 ; 7.0),102.8%,90.0 - 120.0%,1
+297,ICARS:24.09.03.324,ERYTHRO-250,Erythromycin,Tablet,250mg,312708,11/2026,Codupha-lao,Laos,0.4853g        (-6.6; 4.6),98.0%,90.0 - 120.0%,1
+298,ICARS:24.09.03.325,BOMCIN 500,Tetracycline,Capsules,500mg,2425201,10/01/2027,New charoen,Thailand,0.6079 g        (-1.3; 1.5),102.1%,90.0 - 110.0%,1
+299,ICARS:24.09.03.326,GANO spec500,Tetracycline,Capsules,500mg,42319,9/11/2026,PICCO PHARMA,Thailand,0.5210 g        (-0.7 ; 0.7),98.6%,90.0 - 110.0%,1
+300,ICARS:24.09.03.327,TC-MYCIN 500,Tetracycline,Capsules,500mg,279T,23/2/2027,Wesco pharma,Thailand,0.5064 g        (-1.5 ; 1.5),102.2%,90.0 - 110.0%,1
+301,ICARS:24.09.03.328,DOXYCYCLINE,Doxycycline,Capsul,100mg,312204,23/5/2026,Codupha-lao,Laos,0.2189g        (-3.4 ; 2.6),95.2%,90.0 - 120.0%,1
+302,ICARS:24.09.03.329,KLORAMPHENICOL,Chloramphenicol,Capsules,250mg,313315,11/2026,Codupha-lao,Laos,0.3861 g        (-7.0 ; 7.3),98.5%,90.0 - 110.0%,1
+303,ICARS:24.09.03.330,AZITHROMYCIN,AZITHROMYCIN,TABLET,500mg,240038006,04/2027,No.3,Laos,6976 g        (-3.2 ; 4.0),99.7%,90.0 - 110.0%,1
+304,ICARS:24.09.03.331,AMPICILLIN,Amoxicillin,Tablet,250mg,2444001,05/2027,KPN,Laos,0.3586 g        (-2.0 ; 3.2),96.5%,90.0 - 110.0%,1
+305,ICARS:24.09.03.332,LEOMYCIN,Tetracycline,Tablet,250mg,313607,27/03/2026,Codupha-lao,Laos,0.7421 g        (-1.5 ; 0.6),93.3%,90.0 - 110.0%,1
+306,ICARS:24.09.03.333,TETRA ,Tetracycline,Tablet,250mg,216103,26/9/2025,Codupha-lao,Laos,0.3827 g        (-1.7 ; 2.3),94.3%,90.0 - 110.0%,1
+307,ICARS:24.09.03.334,Tetracycline,Tetracycline,Capsules,250mg,65419,16/6/2026,H K,Thailand,0.2751g        (-5.2 ; 3.2),101.4%,90.0 - 110.0%,1
+308,ICARS:24.09.03.335,LEOMYCIN,Tetracycline,Tablet,250mg,313610,22/5/206,Codupha-lao,Laos,0.7613 g        (-0.8 ; 0.6),94.1%,90.0 - 110.0%,1
+309,ICARS:24.09.03.336,Ampicillin,Ampicillin,Tablet,250mg,300729,22/11/2026,Codupha-lao,Laos,0.3604 g        (-2.8 ; 4.1),96.6%,90.0 - 110.0%,1
+310,ICARS:24.09.03.337,Ampicillin,Ampicillin,Capsule,500mg,2345030,09/2026,KPN,Laos,0.5850 g        (-1.3 ; 3.8),96.4%,90.0 - 110.0%,1
+311,ICARS:24.09.03.338,ERYTHRO-250,Erythromycin,Tablet,250mg,312703,07/2026,Codupha-lao,Laos,0.4938 g        (-2.6; 5.4),98.4%,90.0 - 120.0%,1
+312,ICARS:24.09.03.339,AZITHROMAX,Azithromycin,Tablet,250mg,061122,11/2025,CBF,Laos,0.3395 g        (-1.0 ; 1.4),99.3%,90.0 - 110.0%,1
+313,ICARS:24.09.03.340,METRONIDAZOLE,Metronidazole,Tablet,500mg,213703,03/7/2025,Codupha-lao,Laos,0.5985 g        (-2.8 ; 2.7),95.5%,93.0 - 107.0%,1
+314,ICARS:24.09.03.341,ERYTHROMYCIN,Erythromycin,Tablet,500mg,012024,01/03/2028,ARME PHACO,Vietnam,0.9319 g        (-1.0 ; 1.6),99.3%,90.0 - 120.0%,1
+315,ICARS:24.09.03.342,AMOXYCILLIN,Amoxicillin,Capsule,500mg,300203,12/2026,Codupha-lao,Laos,0.5969 g        (-4.6 ; 4.1),99.6%,90.0 - 120.0%,1
+316,ICARS:24.07.03.343,TREX-250,Tetracycline,Tablets,250mg,664735,04.10.26,TREX,Thailand,0.8343 g        (-0.6 ; 0.6),105.9%,90.0 - 110.0%,1
+317,ICARS:24.07.03.344,CEFIXIM 200,Cefixime,Capsules,200mg,12270623,27.06.2025,VPC,Vietnam,0.3187 g        (-2.6 ; 3.7),101.4%,90.0 - 110.0%,1
+318,ICARS:24.07.03.345,TC-MYCIN 500,Tetracycline,Tablets,500mg,271T,26/10/26,TCP,Thailand,0.5150 g        (-0.6; 0.5),100.3%,90.0 - 110.0%,1
+319,ICARS:24.07.03.346,GANO SPEC 500,Tetracycline,Capsules,500mg,42401,09/01/27,PICCO PHARMA,Thailand,0.4989g        (-0.5 ; 1.0),103.5%,90.0 - 110.0%,1
+320,ICARS:24.07.03.347,GLAMOXYL,Amoxicillin,Tablets,500mg,A59W,08.2025,GSK,France,0.5745g        (-1.1 ; 0.7),99.8%,90.0 - 120.0%,1
+321,ICARS:24.07.03.348,BOMCIN,Tetracycline,Capsules,500mg,2425201,10.01.2027,NEWCHAROEN,Thailand,0.5948 g        (-0.6; 0.4),103.5%,90.0 - 110.0%,1
+322,ICARS:24.07.03.349,ERYTHROMYCIN,Erythromycin,Capsules,250mg,120723,04.08.2026,VIDIPHA,Vietnam,0.4830 g        (-2.2 ; 2.1),100.7%,90.0 - 120.0%,1
+323,ICARS:24.07.03.350,METROZOL,Metronidazole,Tablets,500mg,020324,03.2027,CBF,Laos,0.5735 g        (-3.2; 3.0),99.4%,93.0- 107.0%,1
+324,ICARS:24.07.03.351,VEJAR-VK,Penicillin,Capsules,400.000UI,2205007,04.05.2025,NCPC,China,0.2945g        (-2.2 ; 2.2),103.0%,90.0 - 120.0%,1
+325,ICARS:24.07.03.352,DOXYLCAP,Doxycycline,Capsules,100mg,014,08.12.2028,BANGKOK,Thailand,0.2226 g        (-1.9; 2.7),101.6%,90.0 - 120.0%,1
+326,ICARS:24.07.03.353,PENICILLIN,Penicillin,Capsules,500.000UI,126303,20.01.2026,THE MEDICPHARMA,Thailand,0.5834 g        (-0.8 ; 0.9),105.5%,90.0 - 120.0%,1
+327,ICARS:24.07.03.354,PENICILLIN,Penicillin,Capsules,500.000IU,125419,04.01.2026,THE MEDICPHARMA,Thailand,0.5554 g        (-0.9 ; 0.4),103.7%,90.0 - 120.0%,1
+328,ICARS:24.07.03.355,METRONIDAZOL,Metronidazole,Tablets,250mg,040723,01.26,CBF,Laos,0.4548 g        (-2.9 ; 3.3),106.0%,93.0 - 107.0%,1
+329,ICARS:24.07.03.356,AZITHROMYCIN,Azithromycin,Tablets,500mg,01,03.2027,N0.3,Laos,0.6993g        (-1.9 ; 1.8),98.7%,90.0 - 110.0%,1
+330,ICARS:24.07.03.357,AZITHROMAX,Azithromycin,Tablets,250mg,010124,01/2027,CBF,Laos,0.3414 g        (-1.3 ; 1.9),98.5%,90.0 - 110.0%,1
+331,ICARS:24.07.03.358,Erythromycin,Erythromycin,Capsule,500mg,3430424,04.2027,KH,Vietnam,0.8923g        (-1.0 ; 2.1),95.4%,90.0 - 120.0%,1
+332,ICARS:24.07.03.359,HEROLMYCIN,Heromycin,Capsule,250mg,73100115,210370,Trade Mark,Thailand,0.2779 g        (-1.6 ; 1.4),96.2%,90.0 - 110.0%,1
+333,ICARS:24.07.03.360,AMPICILLIN,Ampicillin,Capsule,500mg,2445005,05.27,KPN,Laos,0.5696 g        (-1.4 ; 1.5),99.6%,90.0 - 110.0%,1
+334,ICARS:24.07.03.361,Moxy 500,Amoxicillin,Tablet,500mg,67156,19/4/2027,H K,Thailand,0.5542 g        (-2.1 ;2.6),99.3%,90.0 - 120.0%,1
+335,ICARS:24.07.03.362,Amoxicillin,Amoxicillin,Capsules,500mg,2446029,07/2027,KPN,Laos,0.5840g        (-2.6 ; 2.2),99.4%,90.0 - 120.0%,1
+336,ICARS:24.07.03.363,Tetracycline HCl,Tetracycline,Capsule,250mg,67111,21/3/2028,H K,Thailand,0.691 g        (-1.4 ; 1.8),95.7%,90.0 - 110.0%,1
+337,ICARS:24.07.03.364,KLORAMPHENICOL,Chloramphenicol,Tablets,250mg,313315,11.26,Codupha-lao,Laos,0.3872 g        (-7.2 ; 7.4),93.8%,90.0 - 110.0%,1
+338,ICARS:24.07.03.365,PENICILLIN,Penicillin,Tablets,1000000iu,1221223,26.12.2026,VIDIPHA,Vietnam,0.7217 g        (-1.0 ; 1.7),102.8%,90.0 - 120.0%,1
+339,ICARS:24.07.03.366,AZITHROMYCIN,Azithromycin,Tablets,500mg,230038006,08.2026,N0.03,Laos,0.7230 g        (-0.8 ; 1.1),99.6%,90.0 - 110.0%,1
+340,ICARS:24.07.03.367,AZITHROMAX,Azithromycin,Tablets,250mg,071023,10.2026,CBF,Laos,0.3415g        (-3.5 ; 1.5),99.9%,90.0 - 110.0%,1
+341,ICARS:24.07.03.368,ECOTHROCIN 500,Azithromycin,Capsules,500mg,2309053,08/2026,IMPULSE,INDIA,6706 g       (-1.7 ; 1.4),99.6%,90.0 - 110.0%,1
+342,ICARS:24.07.03.369,AMOX-500,Amoxicillin,Tablets,500mg,706230601,06/2026,ALLIANCE,Laos,0.5105g        (-3.1 ; 2.3),96.0%,90.0 - 120.0%,1
+343,ICARS:24.07.03.370,AMOXY G 500,Amoxicillin,Capsules,500mg,66157P,28/3/2026,HK,Thailand,0.5648 g        (-1.4 ; 5.0),98.8%,90.0 - 120.0%,1
+344,ICARS:24.07.03.371,AMOXY 500,Amoxicillin,Capsules,500mg,67037,24/1/27,HK,Thailand,0.5514 g        (-2.6 ; 3.0),99.3%,90.0 - 120.0%,1
+345,ICARS:24.07.03.372,STARMOX-500,Amoxicillin,Tablets,500mg,0664,03/2027,SEVENSTAR,Thailand,0.5972 g        (-2.8 ; 4.0),98.8%,90.0 - 120.0%,1
+346,ICARS:24.07.03.373,ERYTHROMYCIN,Erythromycin,Tablets,500mg,042023,2/8/2027,CONG TY,Vietnam,0.9294 g        (-2.4; 1.8),100.1%,90.0 - 120.0%,1
+347,ICARS:24.07.03.374,ERYTHROMYCIN 250,Erythromycin,Capsules,250mg,24001AN,22/2/2027,MEKOPHAR,Vietnam,0.4540g        (-3.2 ; 1.6),98.0%,90.0 - 120.0%,1
+348,ICARS:24.07.03.375,GANO SPEC 500,Tetracycline,Capsules,500mg,42401,09/01/27,PICCO PHARMA,Thailand,0.4925 g        (-0.4; 0.4),102.5%,90.0 - 110.0%,1
+349,ICARS:24.07.03.376,TC-MYCIN,Tetracycline,Tablets,250mg,2603A,12/1/2026,VESCO,Thailand,0.2885g        (-1.3 ; 1.6),97.3%,90.0 - 110.0%,1
+350,ICARS:24.07.03.377,LEOMYCIN,Tetracycline,Tablets,250mg,213604,21/3/2025,CODUPHA,Laos,0.7040 g      (-1.0 ; 0.6),93.4%,90.0 - 110.0%,1
+351,ICARS:24.07.03.378,MEKOPEN,Penicillin,Tablets,"1,000,000IU",23020AN,100825,MEKOPEN,Vietanam,0.7345 g        (-4.4 ; 3.9),103.6%,90.0 - 120.0%,1
+352,ICARS:24.07.03.379,PENICILLIN V KALL,Penicillin,capsules,"1.000,000IU",310723,140726,VIDIPHA,Vietnam,0.6113 g        (-7.0 ; 6.5),104.1%,90.0 - 120.0%,1
+353,ICARS:24.07.03.380,METRODYL 500,Metronidazole,capsules,500mg,2309023,130927,No:02,Laos,0.6349 g        (-2.8 ; 2.7),105.3%,93.0 - 107.0%,1
+354,ICARS:24.07.03.381,METRONIDAZOL 250,Metronidazole,capsules,250mg,010123,1/7/2025,CBF,Laos,0.4516 g        (-1.8 ; 1.8),101.9%,93.0 - 107.0%,1
+355,ICARS:24.07.03.382,METROZOL 500,Metronidazole,capsules,500mg,030524,05.2027,CBF,Laos,0.5638 g        (-2.1 ; 2.0),103.0%,93.0 - 107.0%,1
+356,ICARS:24.07.03.383,AMPICILLIN,Ampicillin,Tablets,250mg,2444006,05/2027,KPN,Laos,0.3568 g        (-3.0 ; 2.3),96.0%,90.0 - 110.0%,1
+357,ICARS:24.07.03.384,AMPI-500,Ampicillin,Tablets,500mg,240501,05.2027,ALLIANCE,Laos,0.5319g        (-0.6 ; 1.1),101.7%,90.0 - 110.0%,1
+358,ICARS:24.07.03.385,KLORAMPHENICOL,Chloramphenicol,Tablets,250mg,313305,17.05.26,CODUPHA,Laos,0.3916g        (-7.3 ; 6.4),98.0%,90.0 - 110.0%,1
+359,ICARS:24.07.03.386,DOXYMAN-100,Doxycycline,Tablets,100mg,7986403,2/4/2025,T-MAN,Thailand,0.3249g        (-4.0; 2.0),99.5%,90.0 - 120.0%,1
+360,ICARS:24.07.03.387,CEFIXIM 200,Cefixime,Tablets,200mg,001-310124,31.01.2027,TV.PHARM,Vietnam,0.4144g        (-2.1 ;1.9),104.2%,90.0 - 110.0%,1
+361,ICARS:24.09.09.388,DOXYCYCLINE,Doxycycline,Capsules,100mg,312204,05.2026,CODUPHA,Laos,0.2275 g        (-2.5 ; 4.9),99.9%,90.0 - 120.0%,1
+362,ICARS:24.09.09.389,CEFIX-400,Cefixime,Tablet,400mg,010723,01.2026,CBF,Laos,0.6390 g        (-3.8 ; 3.6),103.8%,90.0 - 110.0%,1
+363,ICARS:24.09.09.390,PENI-ZEM,Penicillin,Tablet,"400,000IU",010324,03.2026,CBF,Laos,0.3359 g        (-0.8 ; 1.1),105.0%,90.0 - 120.0%,1
+364,ICARS:24.09.09.391,CEFIX-200,Cefixime,Tablet,200mg,020922,03.2025,CBF,Laos,0.3502g        (-7.3 ; 3.0),106.5%,90.0 - 110.0%,1
+365,ICARS:24.09.09.392,ERYTHRO-500,Erythromycin,Tablet,500mg,312306,05.2026,CODUPHA,Laos,0.7114 g        (-40 ; 1.9),95.0%,90.0 - 120.0%,1
+366,ICARS:24.09.09.393,ERY-500,Erythromycin,Tablet,500mg,031223,06.2026,CBF,Laos,0.9359 g        (-2.8 ; 1.8),93.7%,90.0 - 120.0%,1
+367,ICARS:24.09.09.394,AMOXY M.H,Amoxicillin,Casules,500mg,L61APT,3/1/2026,M&H,Thailand,0.6309 g        (-2.6 ; 3.5),98.9%,90.0 - 120.0%,1
+368,ICARS:24.09.09.395,AZITHROMAX,Azithromycin,Tablet,250mg,081123,11.2026,CBF,Laos,0.339.0 g        (-2.4 ; 0.8),99.5%,90.0 - 110.0%,1
+369,ICARS:24.09.09.396,AMPI-500,Ampicillin,Casules,500mg,240501,05.2027,ALLIANCE ,Laos,0.5165g        (-1.1 ; 1.3),101.6%,90.0 - 110.0%,1
+370,ICARS:24.09.09.397,CLAMOXYL,Amoxicillin,Casules,500mg,A59W,08/2026,GLAXO,France,0.5739 g        (-1.2 ; 0.5),99.1%,90.0 - 120.0%,1
+371,ICARS:24.09.09.398,ZAMOCIL,Amoxicillin,Capsules,500mg,230622,05.2026,WEIQIDA,CHINA,0.5832 g        (-1.3 ; 1.1),99.5%,90.0 - 120.0%,1
+372,ICARS:24.09.09.399,AZITHROMAX,Azithromycin,Tablet,500mg,010723,01.2026,CBF,Laos,0.6759 g        (-1.3 ; 1.3),99.7%,90.0 - 110.0%,1
+373,ICARS:24.09.09.400,METROZOL 500,Metronidazole,Tablet,500mg,040722,072025,CBF,Laos,0.5658 g        (-1.9 ; 1.6),104.5%,93.0- 107.0%,1
+374,ICARS:24.09.09.401,DOXYLCAP,Doxycycline,Capsules,100mg,826,06/2028,Bankok Lab,Thailand,0.2257 g        (-2.8 ; 2.0),105.5%,90.0 - 120.0%,1
+375,ICARS:24.09.09.402,HEROLMYCIN,Tetracycline,Capsules,250mg,2301002,08/2026,KPN,Laos,0.4234 g        (-4.8 ; 2.7),93.8%,90.0 - 120.0%,1
+376,ICARS:24.09.09.403,PENI-ZEM,Penicillin,Tablet,"400,000IU",010223,02/2025,CBF,Laos,0.3445 g        (-0.5 ; 1.3),103.1%,90.0 - 120.0%,1
+377,ICARS:24.09.09.404,AMPI-500,Ampicillin,Capsules,500mg,709230602,06.2026,ALLIANCE ,Laos,0.5989 g        (-1.2 ; 2.0),99.9%,90.0 - 110.0%,1
+378,ICARS:24.09.09.405,ZAMOCIL,Amoxicillin,Capsules,500mg,230447,03.2026,WEIQIDA,CHINA,0.5805g        (-1.0 ; 0.9),98.5%,90.0 - 120.0%,1
+379,ICARS:24.09.09.406,AMPICILLIN,Ampicillin,Tablet,250mg,2344003,7.2026,KPN,Laos,0.3559g        (-2.2 ;2.7),97.3%,90.0 - 110.0%,1
+380,ICARS:24.09.09.407,LEOMYCIN,Tetracycline,Tablet,250mg,313614,08/2026,CODUPHA,Laos,0.7044 g        (-5.6 ; 6.4),94.0%,90.0 - 120.0%,1
+381,ICARS:24.09.09.408,CHLORAMPHENICOL,Chloramphenicol,Capsules,250mg,312203,11/26,CODUPHA,Laos,0.3872 g        (-7.4 ; 5.0),94.6%,90.0 - 110.0%,1
+382,ICARS:24.09.09.409,AMPICILLIN,Ampicillin,Tablet,500mg,2445009,05/2027,KPN,Laos,0.5673 g        (-1.4 ; 1.0),96.4%,90.0 - 110.0%,1
+383,ICARS:24.09.09.410,METRONIDAZOL 250,Metronidazole,Tablet,250mg,051023,04/2026,CBF,Laos,0.4583 g        (-3.0 ; 4.4),101.3%,93.0 - 107.0%,1
+384,ICARS:24.09.09.411,ERY-250,Erythromycin,Tablet,250mg,050723,01.2026,CBF,Laos,0.3853 g        (-6.0 ; 5.1),95.7%,90.0 - 120.0%,1
+385,ICARS:24.09.09.412,PENI-ZEM,Penicillin,Tablet,"400,000IU",020223,02/2025,CBF,Laos,0.3456g        (-0.9 ; 1.7),99.5%,90.0 - 120.0%,1
+386,ICARS:24.09.09.413,AMOXYCILLIN,Amoxicillin,Capsules,500mg,2346012,02.2026,KPN,Laos,0.6009 g       (-2.6 ; 2.5),99.4%,90.0 - 120.0%,1
+387,ICARS:24.09.09.414,AMPICILLIN,Ampicillin,Tablet,500mg,2345006,03.2026,KPN,Laos,0.5093g        (-0.6 ; 1.0),95.8%,90.0 - 110.0%,1
+388,ICARS:24.09.09.415,METROZOL 500,Metronidazole,Tablet,500mg,081023,10/2026,CBF,Laos,0.5635 g        (-2.0 ; 2.5),101.1%,93.0 - 107.0%,1
+389,ICARS:24.09.09.416,PENI-ZEM,Penicillin,Tablet,"400,000IU",030423,04/2025,CBF,Laos,0.3415 g        (-0.5 ; 0.5),94.2%,90.0 - 120.0%,1
+390,ICARS:24.09.09.417,GANO SPEC,Tetracycline,Tablet,500mg,42205,04/05/25,PICCO,THAILAND,0.5210 g        (-4.8 ; 1.1),95.0%,90.0 - 120.0%,1
+391,ICARS:24.09.09.418,AMOXYCILLIN,Amoxicillin,Capsules,500mg,300193,11.2026,CODUPHA,Laos,0.6011 g        (-3.4 ; 2.8),99.3%,90.0 - 120.0%,1
+392,ICARS:24.09.09.419,AMPICILLIN,Ampicillin,Tablet,500mg,2345035,11.2026,KPN,Laos,0.5704 g        (-3.2 ; 2.8),102.5%,90.0 - 110.0%,1
+393,ICARS:24.09.09.420,DOXYCYCLINE,Doxycycline,Capsules,100mg,312205,09.2026,CODUPHA,Laos,0.2482g        (-3.6 ; 2.9),104.1%,90.0 - 120.0%,1
+394,ICARS:24.09.09.421,ERYTHRO-500,Erythromycin,Tablet,500mg,312310,11.2026,CODUPHA,Laos,0.9264 g        (-1.6 ; 2.5),95.9%,90.0 - 120.0%,1
+395,ICARS:24.09.09.422,PENI-ZEM,Penicillin,Tablet,"400,000IU",030423,04/2025,CBF,Laos,0.3359 g       (-0.8 ; 0.4),101.4%,90.0 - 120.0%,1
+396,ICARS:24.09.09.423,METROZOL 500,Metronidazole,Tablet,500mg,081023,10/2026,CBF,Laos,0.5669 g        (-1.7 ; 3.2),101.3%,93.0 - 107.0%,1
+397,ICARS:24.09.09.424,CHLORAMPHENICOL,Chloramphenicol,Capsules,250mg,313314,11/2026,CODUPHA,Laos,0.3856 g        (-7.4 ; 7.0),100.3%,90.0 - 110.0%,1
+398,ICARS:24.09.09.425,TETRA-KPN,Tetracycline,Capsules,250mg,2216005,09/2025,KPN,LAOS,0.4235 g       (-6.2 ; 6.7),95.0%,90.0 - 120.0%,1
